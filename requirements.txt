@@ -7,4 +7,4 @@ pandas==2.0.3
 scikit_learn==1.3.2
 gunicorn
 dash-tools
-tkinter==3.9.17
+

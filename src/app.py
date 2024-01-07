@@ -67,8 +67,8 @@ def EB200headerprint():
 
 #main
 DFPANLIST = []
-root = tk.Tk()
-root.withdraw()  # Hide the main window
+# root = tk.Tk()
+# root.withdraw()  # Hide the main window
     # Prompt the user to select a file
 file_path = input("Enter the file path: ")
 #remove inverted comma
